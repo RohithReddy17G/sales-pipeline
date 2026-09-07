@@ -1,0 +1,6 @@
+Order_ID,Customer_Name,Quantity,Price_Per_Unit,Status
+101,Rahul Sharma,2,500,delivered
+102,Ananya Patel,1,1200,shipped
+103,,3,300, pending 
+104,Vikram Singh,5,150,delivered
+105,Priya Nair,2,800, cancelled
